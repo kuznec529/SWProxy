@@ -31,7 +31,7 @@
           <property name="enabled">
            <bool>true</bool>
           </property>
-          <property name="frame">
+          <property name="readOnly">
            <bool>true</bool>
           </property>
          </widget>
